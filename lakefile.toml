@@ -1,0 +1,5 @@
+name = "php2shell-lean-plain"
+defaultTargets = ["Php2Shell"]
+
+[[lean_lib]]
+name = "Php2Shell"
